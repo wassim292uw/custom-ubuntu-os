@@ -1,0 +1,7 @@
+# LSB Release Information
+# معلومات LSB للنظام
+
+DISTRIB_ID=CustomUbuntuOS
+DISTRIB_RELEASE=1.0
+DISTRIB_CODENAME=jammy
+DISTRIB_DESCRIPTION="Custom Ubuntu OS 1.0 (Based on Ubuntu Jammy 22.04 LTS)"
