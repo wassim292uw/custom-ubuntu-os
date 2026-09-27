@@ -1,0 +1,22 @@
+# Custom Ubuntu OS - Identity File
+# ملف هوية النظام المخصص
+
+NAME="Custom Ubuntu OS"
+VERSION="1.0.0"
+VERSION_ID=1.0
+VERSION_CODENAME=jammy
+PLATFORM_ID=custom-ubuntu
+ID=custom-ubuntu
+ID_LIKE=ubuntu
+PRETTY_NAME="Custom Ubuntu OS 1.0 (Jammy)"
+VERSION_PRETTY="1.0 LTS"
+HOME_URL="https://github.com/wassim292uw/custom-ubuntu-os"
+DOCUMENTATION_URL="https://github.com/wassim292uw/custom-ubuntu-os/wiki"
+BUG_REPORT_URL="https://github.com/wassim292uw/custom-ubuntu-os/issues"
+SUPPORT_URL="https://github.com/wassim292uw/custom-ubuntu-os/discussions"
+SUPPORT_END=2027-04-21
+LOGO=custom-ubuntu
+CPP_NAME="Custom Ubuntu OS"
+CPP_VERSION_PRETTY="1.0"
+UBUNTU_CODENAME=jammy
+UBUNTU_RELEASE=22.04
